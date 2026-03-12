@@ -1,4 +1,6 @@
-Uma calculadora simples, como exemplo de projeto feito em JavaScript.
+Este repositório consiste em uma calculadora simples,
+como exemplo de projeto feito em JavaScript.
+
 Inclui:
 
 - Adição, subtração.
